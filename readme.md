@@ -2,4 +2,4 @@
 
 jswd , part of my jsrt project
 
-![](./pic/jswd.png)
+![](./jswd.png)
